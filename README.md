@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mide-Manuel
+- 👋 Hi, I’m @Celestial_Cipher
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,6 +6,6 @@
 _ 👛 0x22827bcfCB7D50E9594C1c1f873909B0c4d476dF
 
 <!---
-Mide-Manuel/Mide-Manuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Celestial_Cipher/Celestial_Cipher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
